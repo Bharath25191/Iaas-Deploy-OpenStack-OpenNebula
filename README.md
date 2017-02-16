@@ -8,6 +8,6 @@ The project aims at doing a comparative study between various open source IaaS (
 <br>
 This document also illustrates the steps to be followed to deploy an Infrastructure as a Service Cloud platform using open source solution
 such as :<br>
-1. OpenStack
+1. OpenStack<br>
 2. OpenNebula
 
